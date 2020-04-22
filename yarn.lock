@@ -3951,6 +3951,11 @@ data-urls@^1.0.0, data-urls@^1.1.0:
     whatwg-mimetype "^2.2.0"
     whatwg-url "^7.0.0"
 
+date-fns@^2.12.0:
+  version "2.12.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.12.0.tgz#01754c8a2f3368fc1119cf4625c3dad8c1845ee6"
+  integrity sha512-qJgn99xxKnFgB1qL4jpxU7Q2t0LOn1p8KMIveef3UZD7kqjT3tpFNNdXJelEHhE+rUgffriXriw/sOSU+cS1Hw==
+
 debug@2.6.9, debug@^2.2.0, debug@^2.3.3, debug@^2.6.0, debug@^2.6.9:
   version "2.6.9"
   resolved "https://registry.yarnpkg.com/debug/-/debug-2.6.9.tgz#5d128515df134ff327e90a4c93f4e077a536341f"
@@ -5252,6 +5257,11 @@ fsevents@^1.2.7:
   dependencies:
     bindings "^1.5.0"
     nan "^2.12.1"
+
+full-icu@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/full-icu/-/full-icu-1.3.1.tgz#e67fdf58523f1d1e0d9143b1542fe2024c1c8997"
+  integrity sha512-VMtK//85QJomhk3cXOCksNwOYaw1KWnYTS37GYGgyf7A3ajdBoPGhaJuJWAH2S2kq8GZeXkdKn+3Mfmgy11cVw==
 
 function-bind@^1.1.1:
   version "1.1.1"
